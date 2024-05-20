@@ -1,2 +1,2 @@
 
-python locker.py unlock
+& python "$PSScriptRoot\locker.py" unlock
